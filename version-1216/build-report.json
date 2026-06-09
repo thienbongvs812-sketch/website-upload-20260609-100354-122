@@ -1,0 +1,8 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 10,
+  "video_source_count_from_uploaded_js": 150,
+  "cover_rule": "第 N 条影片引用顶级目录 X.jpg，X = ((N - 1) % 150) + 1；ZIP 中不包含 JPG 图片。",
+  "generated_at": "2026-06-02"
+}
